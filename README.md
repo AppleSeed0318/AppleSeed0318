@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AppleSeed0318/AppleSeed0318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3 align="center">Senior Blockcahin Engineer</h3>
 
 <img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
