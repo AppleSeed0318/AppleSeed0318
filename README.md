@@ -1,6 +1,5 @@
 # AppleSeed
 
-### Hi there 👋
 
 <h3 align="center">Senior Blockcahin Engineer</h3>
 
