@@ -3,7 +3,6 @@
 
 <h3 align="center">Senior Blockcahin Engineer</h3>
 
-<img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
 
 
 
