@@ -30,16 +30,3 @@
   <p><b>E-Mail: jamesberry0318.email@gmail.com</b></p>
   <p><b>Skype: appleseed0318</b></p>
   <p><b>Telegram: @AppleSeed0318</b></p>
-
-
-
-
-
-
-
-
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/mothblue1111/mothblue1111/master/images/marquee.svg" />
-<br />
-</div>
