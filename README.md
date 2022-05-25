@@ -1,7 +1,7 @@
 # AppleSeed
 
 
-<h3 align="center">Senior Blockcahin Engineer</h3>
+<h3 align="center">WAX P2E Developer</h3>
 
 
 
@@ -27,5 +27,5 @@
 
 - 🤝 How to reach me 
   <p><b>E-Mail: jamesberry0318.email@gmail.com</b></p>
-  <p><b>Skype: appleseed0318</b></p>
   <p><b>Telegram: @AppleSeed0318</b></p>
+  <p><b>Discord: James Berry#4759</b></p>
