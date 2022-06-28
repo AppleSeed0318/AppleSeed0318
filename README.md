@@ -41,5 +41,5 @@ Javascript
 
 - 🤝 How to reach me 
   <p><b>E-Mail: jamesberry0318.email@gmail.com</b></p>
-  <p><b>Telegram: @AppleSeed0318</b></p>
+  <p><b>Telegram: @CrazyDev3</b></p>
   <p><b>Discord: James Berry#4759</b></p>
