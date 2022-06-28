@@ -1,7 +1,7 @@
 # AppleSeed
 
 
-<h3 align="center">WAX P2E Developer</h3>
+<h3 align="center">Blockchain/Web/Game/P2E Developer</h3>
 
 
 
