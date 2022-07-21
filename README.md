@@ -3,7 +3,7 @@
 
 <h3 align="center">Blockchain/Web/Game/P2E Developer</h3>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=appleseed0318)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - <a href = "https://raw.githubusercontent.com/nullablebool/crypto-icons/master/32x32/WAX-32.png">
