@@ -42,5 +42,5 @@ Javascript
 - 🤝 How to reach me 
   <p><b>E-Mail: jamesberry0318.email@gmail.com</b></p>
   <p><b>Skype: live:.cid.d8bfa0bd68665d64</b></p>
-  <p><b>Telegram: @wildhorse0318</b></p>
+  <p><b>Telegram: @CrazyDev0318</b></p>
   <p><b>Discord: James Berry#4759</b></p>
