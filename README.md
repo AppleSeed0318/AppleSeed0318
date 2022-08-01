@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/nullablebool/crypto-icons/master/32x32/BNB-32.png" alt="BSC" title="WAX (WAXP)" style="max-width: 100%;">
     </a>Binance Smart Chain
 
-- WAX_P2E, BSC_P2E, DeFi, DEX, NFT, Smart Contract, Atomichub
+- P2E Game, BSC_P2E, DeFi, DEX, NFT, Smart Contract, Atomichub
 - React, Next, Vue, Angular, Node.js, Express.js, Laravel
 - Unity, Cocos Creator, Unreal Engine
 - C/C++, Solidity, JavaScript, ES6, TypeScript, PHP, C#, Python
