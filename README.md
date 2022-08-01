@@ -18,6 +18,10 @@
     <a href = "https://raw.githubusercontent.com/nullablebool/crypto-icons/master/32x32/BNB-32.png">
     <img src="https://raw.githubusercontent.com/nullablebool/crypto-icons/master/32x32/BNB-32.png" alt="BSC" title="WAX (WAXP)" style="max-width: 100%;">
     </a>Binance Smart Chain
+    
+    <a href = "https://raw.githubusercontent.com/nullablebool/crypto-icons/master/32x32/Polygon-32.png">
+      <img src="https://raw.githubusercontent.com/nullablebool/crypto-icons/master/32x32/Polygon-32.png" alt="Polygon" title="Polygon (Matic)" style="max-width: 100%;">
+    </a>Binance Smart Chain
 
 - P2E Game, BSC_P2E, DeFi, DEX, NFT, Smart Contract, Atomichub
 - React, Next, Vue, Angular, Node.js, Express.js, Laravel
