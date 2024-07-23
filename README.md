@@ -27,3 +27,6 @@
 - React, Next, Vue, Angular, Node.js, Express.js, Laravel
 - Unity, Cocos Creator, Unreal Engine
 - C/C++, Solidity, JavaScript, ES6, TypeScript, PHP, C#, Python
+
+- Telegram : @ninja_free_dev
+- Discord : ninja_free_dev
