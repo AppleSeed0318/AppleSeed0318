@@ -14,4 +14,4 @@
 
 ## Contact
 - Telegram : @ninja_free_dev
-- Discord : ninja_free_dev
+- Discord : ninja_free_dev_0
